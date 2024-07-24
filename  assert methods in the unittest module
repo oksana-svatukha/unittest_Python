@@ -1,0 +1,7 @@
+1. assertEqual(a, b) - check a == b
+2. assertNotEqual(a, b) - check a != b
+3. assertTrue(x) - check x is True
+4. assertFalse(x) - check x is False
+5. assertIn(item, list) - check item in list
+6. assertNotIn(item, list) - check item not in list
+
